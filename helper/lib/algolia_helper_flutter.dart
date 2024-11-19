@@ -22,3 +22,5 @@ export 'src/searcher/facet_searcher.dart';
 export 'src/searcher/hits_searcher.dart';
 export 'src/searcher/multi_searcher.dart';
 export 'src/selectable_item.dart';
+export 'src/service/facet_search_service.dart';
+export 'src/service/algolia_client_extensions.dart';
